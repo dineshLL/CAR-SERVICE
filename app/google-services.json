@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "88512792928",
+    "firebase_url": "https://easycarservice-1493177942101.firebaseio.com",
+    "project_id": "easycarservice-1493177942101",
+    "storage_bucket": "easycarservice-1493177942101.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:88512792928:android:2d2631a1b45f4627",
+        "android_client_info": {
+          "package_name": "com.example.dineshliyanage.easycarservice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "88512792928-0dec0vl5lij9v4gj3h17t99l5be25v46.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCx_MX_Op4xmbLWBVO771h1eYk9O0XtMXE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
